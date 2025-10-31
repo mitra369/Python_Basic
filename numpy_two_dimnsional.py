@@ -74,4 +74,23 @@ arr=array([[10,20,30,40],[50,60,70,80]])
 
 # print(arr1)
 
-+
+'''Slicing on 2D array'''
+# a=array([[10,20,30],
+#    [40,50,60],
+#    [70,80,90]])
+
+# print("Row 1= ")
+# print(a[0])
+# print("Row 2= ")
+# print(a[1])
+# print("Row 3= ")
+# print(a[2])
+# print("Col 1= ")
+# print(a[:,0]) 
+# print("A particular element like 20 from the array= ")
+# print(a[0:1,1:2])
+# print ("Print 20,30,50,60= ")
+# print(a[0:2, 1:3])
+
+
+
